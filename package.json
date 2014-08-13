@@ -1,0 +1,17 @@
+{
+  "name": "node_test_socket",
+  "version": "0.0.0",
+  "description": "A simple Chatserver",
+  "main": "index.js",
+  "dependencies": {
+    "promise": "^5.0.0",
+    "string": "^1.9.1",
+    "tinytim": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Hertenstein ~thephpjo",
+  "license": "MIT"
+}
